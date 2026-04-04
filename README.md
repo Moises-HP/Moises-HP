@@ -106,11 +106,11 @@ const moises = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moises-HP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b9ab0&rank_icon=github)](https://github.com/Moises-HP)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-HP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b9ab0&langs_count=8)](https://github.com/Moises-HP)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moises-HP&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1e2d3d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Moises-HP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b9ab0&rank_icon=github)](https://github.com/Moises-HP)
+ 
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Moises-HP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b9ab0&langs_count=8)](https://github.com/Moises-HP)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Moises-HP&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1e2d3d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -120,10 +120,10 @@ const moises = {
 
 | Certificado | Plataforma | Año | Enlace |
 |-------------|------------|-----|--------|
-| Principios SOLID y Clean Code | Udemy | 2026 | [Ver →](https://www.udemy.com/certificate/UC-0820b5ce-02a1-47d0-a564-c90f1c23c00e/) |
 | .NET Backend: .NET Core, SQL Server y JWT | DevTalles | 2026 | [Ver →](https://www.udemy.com/certificate/UC-54884a89-7e36-4577-a5e8-c382842dece0/) |
 | NestJS + Microservicios | Udemy | 2026 | [Ver →](https://www.udemy.com/certificate/UC-763d76a5-9872-414b-b104-f08b7d457307/) |
 | n8n + MCP: Automatización y agentes de IA | DevTalles | 2026 | [Ver →](https://cursos.devtalles.com/certificates/kc7e0ub4ra) |
+| Principios SOLID y Clean Code | Udemy | 2026 | [Ver →](https://www.udemy.com/certificate/UC-0820b5ce-02a1-47d0-a564-c90f1c23c00e/) |
 | React Router: Framework | DevTalles | 2025 | [Ver →](https://cursos.devtalles.com/certificates/0pfbjpifrx) |
 | NestJS + Reportes: PDFs desde Node | Udemy | 2025 | [Ver →](https://www.udemy.com/certificate/UC-34abb41c-9ccb-45e2-8da2-23856e26d976/) |
 | NEST: Backend Escalable | Udemy | 2025 | [Ver →](https://www.udemy.com/certificate/UC-08178200-d5a5-4fe0-b225-481f536f4875/) |
