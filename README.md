@@ -52,8 +52,14 @@ const moises = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Backend & APIs
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -61,6 +67,9 @@ const moises = {
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### Bases de datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -75,11 +84,21 @@ const moises = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Otros lenguajes
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
@@ -87,10 +106,9 @@ const moises = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Moises-HP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b9ab0&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-HP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b9ab0&langs_count=8" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moises-HP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b9ab0&rank_icon=github)](https://github.com/Moises-HP)
 
-<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-HP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b9ab0&langs_count=8)](https://github.com/Moises-HP)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moises-HP&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1e2d3d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://git.io/streak-stats)
 
@@ -102,9 +120,12 @@ const moises = {
 
 | Certificado | Plataforma | Año | Enlace |
 |-------------|------------|-----|--------|
+| Principios SOLID y Clean Code | Udemy | 2026 | [Ver →](https://www.udemy.com/certificate/UC-0820b5ce-02a1-47d0-a564-c90f1c23c00e/) |
 | .NET Backend: .NET Core, SQL Server y JWT | DevTalles | 2026 | [Ver →](https://www.udemy.com/certificate/UC-54884a89-7e36-4577-a5e8-c382842dece0/) |
+| NestJS + Microservicios | Udemy | 2026 | [Ver →](https://www.udemy.com/certificate/UC-763d76a5-9872-414b-b104-f08b7d457307/) |
 | n8n + MCP: Automatización y agentes de IA | DevTalles | 2026 | [Ver →](https://cursos.devtalles.com/certificates/kc7e0ub4ra) |
 | React Router: Framework | DevTalles | 2025 | [Ver →](https://cursos.devtalles.com/certificates/0pfbjpifrx) |
+| NestJS + Reportes: PDFs desde Node | Udemy | 2025 | [Ver →](https://www.udemy.com/certificate/UC-34abb41c-9ccb-45e2-8da2-23856e26d976/) |
 | NEST: Backend Escalable | Udemy | 2025 | [Ver →](https://www.udemy.com/certificate/UC-08178200-d5a5-4fe0-b225-481f536f4875/) |
 | React: Hooks y MERN | Udemy | 2025 | [Ver →](https://www.udemy.com/certificate/UC-26c211f3-cf6d-4d45-a92a-2065d3b4973a/) |
 | SCRUM Práctico en Proyectos | Udemy | 2024 | [Ver →](https://www.udemy.com/certificate/UC-1b8141a3-d9e1-4079-9c0f-3b3220600ac4/) |
@@ -116,12 +137,12 @@ const moises = {
 ## 💼 Experiencia Reciente
 
 ```
-🟢 SUCAHERSA         Sep 2024 — Actualidad   Full-Stack · NestJS · .NET · Docker · n8n · PWA
-⚪ Artimar           Abr 2024 — Sep 2024    Full-Stack · Salesforce · Creatio · MERN
-⚪ Instituto Salamanca Ene 2024 — Abr 2024  Full-Stack · MERN · TypeScript
-⚪ IGRTEC            Ene 2023 — Dic 2023    Full-Stack · MERN · .NET MVC
-⚪ FISTALUD          Ago 2022 — Dic 2022    Freelance · MERN · Cloud Deploy
-⚪ PROAS             Ene 2022 — Ago 2022    Full-Stack · MERN · Bootstrap
+🟢 SUCAHERSA            Sep 2024 — Actualidad    Full-Stack · NestJS · .NET · Docker · n8n · PWA
+⚪ Artimar              Abr 2024 — Sep 2024      Full-Stack · Salesforce · Creatio · MERN
+⚪ Instituto Salamanca  Ene 2024 — Abr 2024      Full-Stack · MERN · TypeScript
+⚪ IGRTEC               Ene 2023 — Dic 2023      Full-Stack · MERN · .NET MVC
+⚪ FISTALUD             Ago 2022 — Dic 2022      Freelance · MERN · Cloud Deploy
+⚪ PROAS                Ene 2022 — Ago 2022      Full-Stack · MERN · Bootstrap
 ```
 
 ---
@@ -142,10 +163,6 @@ const moises = {
 
 [![Email](https://img.shields.io/badge/Escríbeme-moiseshernandezperez02%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moiseshernandezperez02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Conectemos-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moises-hernandez-perez)
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=Moises-HP&color=00d4ff&style=for-the-badge&label=Visitas+al+perfil)
 
 <br/>
 
