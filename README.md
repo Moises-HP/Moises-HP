@@ -102,22 +102,6 @@ const moises = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Moises-HP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b9ab0&rank_icon=github)](https://github.com/Moises-HP)
- 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Moises-HP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b9ab0&langs_count=8)](https://github.com/Moises-HP)
--->
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Moises-HP&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1e2d3d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://streak-stats.demolab.com)
-
-</div>
-
----
-
 ## 🏅 Certificaciones
 
 | Certificado | Plataforma | Año | Enlace |
@@ -156,6 +140,22 @@ const moises = {
 | Ing. en Desarrollo y Gestión de Software | Universidad Tecnológica de Salamanca | 2022 – 2024 |
 | Técnico en TI — Desarrollo de Software Multiplataforma | Universidad Tecnológica de Salamanca | 2020 – 2022 |
 | Técnico en Mecatrónica | CECyTE Salamanca | 2017 – 2020 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- 
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Moises-HP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8b9ab0&rank_icon=github)](https://github.com/Moises-HP)
+ 
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Moises-HP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b9ab0&langs_count=8)](https://github.com/Moises-HP)
+-->
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Moises-HP&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1e2d3d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://streak-stats.demolab.com)
+
+</div>
 
 ---
 
