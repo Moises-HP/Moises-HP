@@ -29,7 +29,7 @@
 const moises = {
   role:       "Full-Stack Software Engineer",
   location:   "Salamanca, Guanajuato, México",
-  experience: "4+ años",
+  experience: "5+ años",
   current:    "SUCAHERSA — desarrollando soluciones web end-to-end",
   stack:      ["React", "NestJS", ".NET", "Node.js", "Docker", "n8n"],
   languages:  { español: "nativo", inglés: "C1 conversacional" },
