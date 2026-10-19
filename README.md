@@ -11,7 +11,7 @@
 
 ### `> Ingeniero en Desarrollo de Software`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+4%2B+years;React+%7C+NestJS+%7C+.NET+%7C+Docker;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+5%2B+years;React+%7C+NestJS+%7C+.NET+%7C+Docker;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 <br/>
 
